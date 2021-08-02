@@ -71,7 +71,7 @@ I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malays
 
 <br >
 
-I love to learn new s 
+
 
 ### Github Stats
 [![Prem Varijakzhan's github stats](https://github-readme-stats.vercel.app/api?username=premvarijakzhan&count_private=true&theme=tokyonight&hide=contribs,prs)](#)
