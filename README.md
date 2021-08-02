@@ -1,6 +1,6 @@
 ## Hi I'm Prem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malaysia. I am interested in games narratives , game production, AI programming and game marketing and business in the gaming industry. Thus, I spend most of my time learning new programming languages, developing games and do projects which I am personally interested in and improve my knowledge in the technology savvy world and improve my skills in the related areas I am interested in.
+I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malaysia. I am interested in games narratives , game production, AI programming and game marketing and business in the gaming industry. Thus, I spend most of my time learning new programming languages, developing games and working on projects which I am personally interested in and improve both my knowledge and skills in the technology savvy world and in the related areas I am interested in.
 
 :mailbox: Reach me out!
 
@@ -12,10 +12,10 @@ I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malays
 
 - 🔭 I’m currently doing my Final Year Project titled Alchemy Tales for my degree.
 - 🌱 I’m  currently learning Unreal Engine, Python for AI/ML and Dart for Flutter to expand my skills.
-- 👯 I'm looking to collaborate for projects which are focuses on  game development or AI/ML.
+- 👯 I'm looking to collaborate for projects which focuses on  game development or AI/ML.
 - 📫 How to reach me: premvarijakzhan@gmail.com.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to learn new skills and do adventure sports.
+- ⚡ Fun fact: I love to learn new skills and indulge in adventure sports.
 
 ### Top Technologies
 #### Languages
