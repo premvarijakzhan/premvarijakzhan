@@ -1,6 +1,6 @@
 ## Hi I'm Prem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malaysia.I am interested in game narrative, game production, AI programming, and game marketing and business in the game industry.. Thus, I spend most of my time learning new programming languages, developing games and working on projects which I am personally interested in and improve both my knowledge and skills in the technology savvy world and in the related areas I am interested in.
+I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malaysia. I am interested in game narrative, game production, AI programming, and game marketing and business in the game industry. Thus, I spend most of my time learning new programming languages, developing games and working on projects which I am personally interested in and improve both my knowledge and skills in the technology savvy world and in the related areas I am interested in.
 
 :mailbox: Reach me out!
 
