@@ -81,7 +81,7 @@ I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malays
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 49 mins   █████████████████████████   100.00 % 
+JavaScript   39 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
