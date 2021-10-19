@@ -82,9 +82,9 @@ I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malays
 
 <!--START_SECTION:waka-->
 ```text
-Solidity     3 hrs 20 mins   ████████████████░░░░░░░░░   63.75 % 
-JavaScript   1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-JSON         38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Solidity     2 hrs 14 mins   █████████████████░░░░░░░░   67.59 % 
+JavaScript   34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 % 
+JSON         30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 ```
 <!--END_SECTION:waka-->
 
