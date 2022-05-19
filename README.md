@@ -53,7 +53,7 @@ I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malays
 
 
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/premvarijakzhan/premvarijakzhan/blob/master/PremVarijakzhan_Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/premvarijakzhan/premvarijakzhan/blob/master/Prem%20Varijakzhan_Resume.pdf)
 - :email: premvarijakzhan@gmail.com
 
 
