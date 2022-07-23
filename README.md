@@ -4,7 +4,7 @@ I'm Prem Varijakzhan a Game Development student and an AI enthusiast from Malays
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@prem-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/njan_prem)](https://twitter.com/njan_prem) [![Linkedin Badge](https://img.shields.io/badge/-Prem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premvarijakzhan/)
+[![Linkedin Badge](https://img.shields.io/badge/-Prem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premvarijakzhan/)
 [![Itch.io](https://img.shields.io/badge/Prem-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white)](https://premvarijakzhan.itch.io/) [![Mail Badge](https://img.shields.io/badge/-premvarijakzhan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:premvarijakzhan@gmail.com)
 
 
