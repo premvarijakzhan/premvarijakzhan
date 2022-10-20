@@ -80,9 +80,7 @@ Hi I am Prem Varijakzhan a programmer from Vizzio.ai and an AI enthusiast from S
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+<figure><embed src="https://wakatime.com/share/@044009d0-5118-4ea8-aaf7-af5a9c6c7e05/0b0fb567-1364-4114-ba18-9b5fd0abeadc.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 </details>
