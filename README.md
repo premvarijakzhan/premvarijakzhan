@@ -77,11 +77,5 @@ Hi I am Prem Varijakzhan a programmer from Vizzio.ai and an AI enthusiast from S
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premvarijakzhan&layout=compact)](#)
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 </details>
 
