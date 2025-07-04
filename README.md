@@ -1,15 +1,15 @@
 ## Hi I'm Prem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, I am Prem Varijakzhan, a programmer at Vizzio.ai and an AI enthusiast from Singapore. I am deeply invested in  AI programming, Web 3.0, Blockchain, Dapps, game narrative, game production, game marketing, and business within the game/tech industry. I am currently pursuing a Master of Technology in Artificial Intelligent Systems at the National University of Singapore (NUS-ISS), where I am enhancing my knowledge and skills in intelligent systems and AI technologies. My passion for technology is matched by my entrepreneurial spirit, where I actively explore startup opportunities and innovative solutions in the tech industry. I dedicate my time to learning new programming languages, developing games, and working on projects that fuel my curiosity and enhance my skills in this technology-driven world.
+Hi, I am Prem Varijakzhan, a programmer at Vizzio.ai and an AI enthusiast from Singapore. I am deeply invested in  AI programming. I am currently pursuing a Master of Technology in Artificial Intelligent Systems at the National University of Singapore (NUS-ISS), where I am enhancing my knowledge and skills in intelligent systems and AI technologies. My passion for technology is matched by my entrepreneurial spirit, where I actively explore startup opportunities and innovative solutions in the tech industry. I dedicate my time to learning new programming languages, developing games, and working on projects that fuel my curiosity and enhance my skills in this technology-driven world.
 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premvarijakzhan/)
 [![Itch.io](https://img.shields.io/badge/Prem-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white)](https://premvarijakzhan.itch.io/) [![Mail Badge](https://img.shields.io/badge/-premvarijakzhan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:premvarijakzhan@gmail.com)
 
-- 🔭 I’m currently working as a programmer at Vizzio.ai and pursuing my Master of Technology in Artificial Intelligent Systems at NUS-ISS.
+- 🔭 I’m currently working as a programmer at Vizzio.ai and pursuing my Master of Technology in Artificial Intelligent Systems at NUS.
 - 🌱 I’m currently learning advanced AI/ML technologies including TensorFlow, Keras, PyTorch, and libraries like numpy and pandas to expand my skills.
-- 👯 I'm looking to collaborate on projects focusing on Web 3.0, Blockchain, game development, and AI/ML.
+- 👯 I'm looking to collaborate on projects focusing on AI/ML.
 - 📫 How to reach me: premvarijakzhan@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love learning new skills and indulging in adventure sports.
