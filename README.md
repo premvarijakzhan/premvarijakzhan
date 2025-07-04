@@ -1,6 +1,6 @@
 ## Hi I'm Prem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, I am Prem Varijakzhan, a programmer at Vizzio.ai and an AI enthusiast from Singapore. I am deeply invested in  AI programming. I am currently pursuing a Master of Technology in Artificial Intelligent Systems at the National University of Singapore (NUS-ISS), where I am enhancing my knowledge and skills in intelligent systems and AI technologies. My passion for technology is matched by my entrepreneurial spirit, where I actively explore startup opportunities and innovative solutions in the tech industry. I dedicate my time to learning new programming languages, developing games, and working on projects that fuel my curiosity and enhance my skills in this technology-driven world.
+Hi, I am Prem Varijakzhan, a programmer at Vizzio.ai and an AI enthusiast from Singapore. I am deeply invested in  AI programming. I am currently pursuing a Master of Technology in Artificial Intelligent Systems at the National University of Singapore, where I am enhancing my knowledge and skills in intelligent systems and AI technologies. My passion for technology is matched by my entrepreneurial spirit, where I actively explore startup opportunities and innovative solutions in the tech industry. I dedicate my time to learning new programming languages, developing games, and working on projects that fuel my curiosity and enhance my skills in this technology-driven world.
 
 :mailbox: Reach me out!
 
