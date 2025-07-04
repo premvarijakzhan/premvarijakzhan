@@ -16,7 +16,7 @@ Hi, I am Prem Varijakzhan, a programmer at Vizzio.ai and an AI enthusiast from S
 
 ### Education
 
-- **Master of Technology in Artificial Intelligent Systems**, National University of Singapore (NUS-ISS), Current
+- **Master of Technology in Artificial Intelligent Systems**, National University of Singapore, Current
 
 ### Entrepreneurial Spirit
 
